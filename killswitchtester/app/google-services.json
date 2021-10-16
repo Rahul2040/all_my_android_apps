@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486130902784",
+    "firebase_url": "https://trail101.firebaseio.com",
+    "project_id": "trail101",
+    "storage_bucket": "trail101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486130902784:android:daed5add053d37b5a4b5e5",
+        "android_client_info": {
+          "package_name": "com.example.killswitchtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486130902784-gh6s7qbmhhopjegunib0liqs1gfhqnbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnkbDyz14H538IGX5RMrxsRMxR8kOFpyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486130902784-gh6s7qbmhhopjegunib0liqs1gfhqnbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

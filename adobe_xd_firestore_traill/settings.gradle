@@ -1,0 +1,2 @@
+rootProject.name = "adobe_xd_firestore_traill"
+include ':app'

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CABLE USER MANAGER</string>
+    <string-array name="column">
+        <item> name</item>
+        <item> smc</item>
+        <item> ob</item>
+        <item> pack</item>
+        <item> addon</item>
+        <item> acc</item>
+
+    </string-array>
+    <string-array name="stages">
+        <item> TOTAL LIST</item>
+        <item> PK</item>
+        <item> KAK</item>
+        <item> SDK</item>
+        <item> ABIRAMI NAGAR</item>
+        <item> AYYAPPAN NAGAR</item>
+        <item> DEVI NAGAR</item>
+        <item> HERTIAGE_VGN</item>
+    </string-array>
+    <string name="title">SMC TO CUSID</string>
+</resources>
